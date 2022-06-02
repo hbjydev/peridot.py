@@ -1,0 +1,5 @@
+.direnv/
+__pycache__/
+peridot.egg-info/
+build/
+dist/
